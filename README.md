@@ -4,18 +4,6 @@
 The program consists of modeling and implementing, by Branch & Bound, the Maximum Walk problem, aka longest path in a directed weighted graph.
 The problem is NP complete therefore the bruteforce approach is necesary.
 
-## "The Time Use Scaling Problem" aka "Cutting Paper Rolls" aka "Simple discrete production scheduling"
-
-A company rents machines (for remote use) on demand from its customers. The only restriction is that the machines can only be used during the same working day (working hours from 8 am to 5 pm). Possibly more than one of these uses can be rented in the same day for the same machine, if the sum of the times is less than 9 hours of business.
-
-Each customer asks how long, in minutes, he will use a machine. This time must be between 0 and 540 minutes. The company has m machines. Upon receiving a set of orders, the company manager needs to schedule which machine and which day each use will be made.
-
-Consider that the demand (orders) is given by a set of n pairs (ni, ti), where ni is the number of requests of time ti, with 1 ≤ i ≤ n. to meet demand requests.
-
-BONUS: The above problem is analogous to the problem  "Cutting Paper Rolls" from the book "Understanding and Using Linear Programming" by Jiˇrí Matoušek and Bernd Gärtner.
-
-The input and output formats are described below and the standard input and output (stdin and stdout) are be used. The input is made up of a set of integers. Numbers can be separated by 1 or more spaces, tabs or end of line.
-
 ## Brench And Bound
 The folowing log represents the execution whith the branch and bound opmizations uncommented.
 Most of the opmizations bound happen right afther the recursive call of the deep search function.
