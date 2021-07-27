@@ -370,7 +370,7 @@ FindAllCycles, pos:6, path[6]: 6-> 5-> 4-> 3-> 1-> 1, visited:111111,           
 
 
 ### Sources Used in this project
-https://www.geeksforgeeks.org/print-all-the-cycles-in-an-undirected-graph/
-https://www.geeksforgeeks.org/print-all-hamiltonian-cycles-in-an-undirected-graph/
-https://www.geeksforgeeks.org/queue-linked-list-implementation/
-https://github.com/coldwarrior5/Graph-analyser
+ - https://www.geeksforgeeks.org/print-all-the-cycles-in-an-undirected-graph/
+ - https://www.geeksforgeeks.org/print-all-hamiltonian-cycles-in-an-undirected-graph/
+ - https://www.geeksforgeeks.org/queue-linked-list-implementation/
+ - https://github.com/coldwarrior5/Graph-analyser
