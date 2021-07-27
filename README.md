@@ -184,18 +184,6 @@ An array of lists is used. The size of the array is equal to the number of verti
 
 # Examples
 ------------
-
-Example of lp solve input
-An example, taken from another problem, can be seen below.
-
-```c
-4
-1 1 0
-5 1
-1
-```
-
-
 ## EX1
 to run this example type make run on terminal
 
