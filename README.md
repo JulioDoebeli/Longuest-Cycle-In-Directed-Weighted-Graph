@@ -201,8 +201,6 @@ to run this example type make run on terminal
 1 2 3 1
 ```
 
-### Solution 1 by pl_solve
-
 ## EX2
 to run this example type make run2 on terminal
 
@@ -278,7 +276,7 @@ number_of_vertices = 6
 3:{ 0, 1, 1, 0, 1, 0}
 4:{ 0, 0, 0, 1, 0, 1}
 5:{ 0, 0, 0, 0, 1, 0}
-}
+}olution 1 by p
 
  Adjacency Array:
 6:{
